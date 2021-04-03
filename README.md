@@ -1,7 +1,7 @@
-Página de Manutenção
+Página de Construção
 ====================
 
-Uma página em HTML e Javascript de manutenção...
+Uma página em HTML e Javascript de construção...
 
 
 Uma modificação dessa página: [página](http://medialoot.com/preview/coming-soon-template/)
